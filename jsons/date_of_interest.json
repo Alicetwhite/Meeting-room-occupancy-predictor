@@ -1,0 +1,13 @@
+[
+	{
+		"Name": "Bob",
+		"Start Date": "0001000000000000000000000000000000000000000000000000",
+		"Scheduled Start Date": "01/01/2020",
+		"Day": "Monday",
+		"Start time": "09:00",
+		"End time": "17:00",
+		"Duration as duration": "08:00",
+		"Locations": "Room 1",
+		"Size of Locations": 4
+	}
+]

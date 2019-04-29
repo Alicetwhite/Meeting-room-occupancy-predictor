@@ -1,0 +1,17 @@
+{
+	"timeseries": {
+        "Series of infomation" : "Series of infomation"
+    },
+	"historic": {
+		"startTime": "2020-09-02T00:00:00.000Z",
+		"endTime": "2021-03-15T00:00:00.000Z",
+		"limited": false,
+		"values": [
+			{
+				"time": "2021-03-14T12:00:00.769Z",
+				"duration": -6.931,
+				"value": 0
+			}
+		]
+	}
+}

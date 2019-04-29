@@ -1,0 +1,15 @@
+[
+  {
+    "Day": "Monday",
+    "Start Time": "12:30",
+    "Duration": "1 hour",
+    "Weeks": "21-29, 35, 37",
+    "Module": "Intro to Programming",
+    "Type": "Lecture",
+    "Activity Code": "Code",
+    "Activity Name": "Programming",
+    "Room": "Room 1",
+    "Staff": "Bob",
+    "Stage": 1
+  }
+]

@@ -1,0 +1,228 @@
+﻿Day,Start Time,Duration,Weeks,Module,Type,Activity Code,Activity Name,Room,Staff
+Monday,12:30,1 hour,"22-30, 35, 37",CSC1024/L03/01,Lecture,CSC1024/L03/01,Computer Architecture,USB.1.006,Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Monday,13:30,2 hours,"22-30, 35, 37",CSC1024/P02/01,Practical,CSC1024/P02/01,Computer Architecture,USB.3.005 (A),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Monday,13:30,2 hours,"22-30, 35, 37",CSC1024/P02/02,Practical,CSC1024/P02/02,Computer Architecture,USB.3.015 (B),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Monday,13:30,2 hours,"22-30, 35, 37",CSC1024/P02/03,Practical,CSC1024/P02/03,Computer Architecture,USB.3.018 (C),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Monday,13:30,2 hours,"11-15, 19","CSC1021/P01/03 <11-15, 19>",Practical,"CSC1021/P01/03 <11-15, 19>",Programming I,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Monday,10:30,1 hour,"6, 8, 12, 14",CSC1023/T01/01,Practical,CSC1023/T01/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Blewitt WF Dr & Guan Y Dr
+Monday,10:30,1 hour,25,CSC1023/T02/01,Practical,CSC1023/T02/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Guan Y Dr
+Monday,13:30,2 hours,19,CSC1021/P01/02 <19>,Practical,CSC1021/P01/02 <19>,Programming I,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Monday,13:30,2 hours,Nov-15,CSC1021/P01/02 <11-15>,Practical,CSC1021/P01/02 <11-15>,Programming I,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Lord P Dr
+Monday,13:30,2 hours,05-Oct,CSC1021/P01/02 <5-10>,Practical,CSC1021/P01/02 <5-10>,Programming I,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Monday,13:30,2 hours,05-Oct,CSC1021/P01/03 <5-10>,Practical,CSC1021/P01/03 <5-10>,Programming I,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Monday,16:30,1 hour,"5-9, 11-15, 19",CSC1023/L01/01,Lecture,CSC1023/L01/01,The Software Engineering Professional,USB.1.006,Barnes JA Mr & Marshall LF Dr
+Monday,15:30,1 hour,"22-30, 35-37",CSC1023/L03/01,Lecture,CSC1023/L03/01,The Software Engineering Professional,USB.1.006,Barnes JA Mr & Marshall LF Dr
+Monday,12:30,1 hour,05-Sep,CSC1021/L01/01 <5-9>,Lecture,CSC1021/L01/01 <5-9>,Programming I,USB.1.006,Speirs NA Dr
+Monday,12:30,1 hour,19,CSC1021/L01/01 <19>,Lecture,CSC1021/L01/01 <19>,Programming I,USB.1.006,Speirs NA Dr & Lord P Dr
+Monday,12:30,1 hour,Nov-15,CSC1021/L01/01 <11-15>,Lecture,CSC1021/L01/01 <11-15>,Programming I,USB.1.006,Lord P Dr
+Monday,13:30,2 hours,Nov-15,CSC1021/P01/01 <11-15>,Practical,CSC1021/P01/01 <11-15>,Programming I,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Lord P Dr
+Monday,13:30,2 hours,05-Oct,CSC1021/P01/01 <5-10>,Practical,CSC1021/P01/01 <5-10>,Programming I,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Monday,13:30,2 hours,19,CSC1021/P01/01 <19>,Practical,CSC1021/P01/01 <19>,Programming I,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Tuesday,11:30,1 hour,05-Sep,CSC1025/L04/01 <5-9>,Lecture,CSC1025/L04/01 <5-9>,Mathematics for Computer Science,USB.1.006,Khomenko VV Dr
+Tuesday,14:30,1 hour,19,CSC1025/T01/01 <19>,Tutorial,CSC1025/T01/01 <19>,,USB.3.005 (A),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,05-Oct,CSC1025/T01/01 <5-10>,Tutorial,CSC1025/T01/01 <5-10>,,USB.3.005 (A),Warrender JD Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,19,CSC1025/T01/02 <19>,Tutorial,CSC1025/T01/02 <19>,,USB.3.015 (B),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,05-Oct,CSC1025/T01/02 <5-10>,Tutorial,CSC1025/T01/02 <5-10>,,USB.3.015 (B),Warrender JD Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,19,CSC1025/T01/03 <19>,Tutorial,CSC1025/T01/03 <19>,,USB.3.018 (C),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,05-Oct,CSC1025/T01/03 <5-10>,Tutorial,CSC1025/T01/03 <5-10>,,USB.3.018 (C),Warrender JD Dr & Khomenko VV Dr
+Tuesday,14:30,1 hour,Nov-15,CSC1025/T01/01 <11-15>,Tutorial,CSC1025/T01/01 <11-15>,,USB.3.005 (A),Warrender JD Dr & Steggles LJ Dr
+Tuesday,14:30,1 hour,Nov-15,CSC1025/T01/02 <11-15>,Tutorial,CSC1025/T01/02 <11-15>,,USB.3.015 (B),Warrender JD Dr & Steggles LJ Dr
+Tuesday,14:30,1 hour,Nov-15,CSC1025/T01/03 <11-15>,Tutorial,CSC1025/T01/03 <11-15>,,USB.3.018 (C),Warrender JD Dr & Steggles LJ Dr
+Tuesday,12:30,1 hour,"22-27, 37","CSC1026/L01/01 <22-27, 37>",Lecture,"CSC1026/L01/01 <22-27, 37>",Website Design and Construction,USB.1.006,Fernstad SE Dr
+Tuesday,12:30,1 hour,"28-30, 35-36","CSC1026/L01/01 <28-30, 35-36>",Lecture,"CSC1026/L01/01 <28-30, 35-36>",Website Design and Construction,USB.1.006,Warrender JD Dr
+Tuesday,10:30,1 hour,"6, 8, 12, 14",CSC1023/T01/01,Practical,CSC1023/T01/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Blewitt WF Dr & Guan Y Dr
+Tuesday,10:30,1 hour,25,CSC1023/T02/01,Practical,CSC1023/T02/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Guan Y Dr
+Tuesday,13:30,2 hours,"22-30, 35-37",CSC1026/P01/01,Practical,CSC1026/P01/01,Website Design and Construction,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Tuesday,13:30,2 hours,"22-30, 35-37",CSC1026/P01/02,Practical,CSC1026/P01/02,Website Design and Construction,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Tuesday,13:30,2 hours,"22-30, 35-37",CSC1026/P01/03,Practical,CSC1026/P01/03,Website Design and Construction,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Tuesday,11:30,1 hour,Nov-15,CSC1025/L04/01 <11-15>,Lecture,CSC1025/L04/01 <11-15>,Mathematics for Computer Science,USB.1.006,Steggles LJ Dr
+Tuesday,09:30,1 hour,"22-30, 35-37",CSC1023/P03/03,Practical,CSC1023/P03/03,The Software Engineering Professional,USB.3.018 (C),Barnes JA Mr & Warrender JD Dr
+Tuesday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P01/03,Practical,CSC1023/P01/03,The Software Engineering Professional,USB.3.018 (C),Barnes JA Mr & Warrender JD Dr
+Tuesday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P01/02,Practical,CSC1023/P01/02,The Software Engineering Professional,USB.3.015 (B),Barnes JA Mr & Warrender JD Dr
+Tuesday,09:30,1 hour,"22-30, 35-37",CSC1023/P03/02,Practical,CSC1023/P03/02,The Software Engineering Professional,USB.3.015 (B),Barnes JA Mr & Warrender JD Dr
+Tuesday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P01/01,Practical,CSC1023/P01/01,The Software Engineering Professional,USB.3.005 (A),Barnes JA Mr & Warrender JD Dr
+Tuesday,09:30,1 hour,"22-30, 35-37",CSC1023/P03/01,Practical,CSC1023/P03/01,The Software Engineering Professional,USB.3.005 (A),Barnes JA Mr & Warrender JD Dr
+Tuesday,12:30,1 hour,05-Sep,CSC1025/L01/01 <5-9>,Lecture,CSC1025/L01/01 <5-9>,Mathematics for Computer Science,USB.1.006,Khomenko VV Dr
+Tuesday,12:30,1 hour,Nov-15,CSC1025/L01/01 <11-15>,Lecture,CSC1025/L01/01 <11-15>,Mathematics for Computer Science,USB.1.006,Steggles LJ Dr
+Wednesday,09:30,1 hour,"22-30, 35-37",CSC1022/L02/01,Lecture,CSC1022/L02/01,Programming II,USB.1.006,Speirs NA Dr
+Wednesday,10:30,2 hours,"22-30, 35-37",CSC1022/P02/01,Computing Lab,CSC1022/P02/01,Programming II,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Wednesday,10:30,2 hours,"22-30, 35-37",CSC1022/P02/02,Computing Lab,CSC1022/P02/02,Programming II,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Wednesday,10:30,2 hours,"22-30, 35-37",CSC1022/P02/03,Computing Lab,CSC1022/P02/03,Programming II,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Wednesday,12:30,1 hour,"22-30, 35-37",CSC1022/L3/01,Lecture,CSC1022/L3/01,Programming II,USB.1.006,Speirs NA Dr
+Wednesday,10:30,2 hours,"5-15, 19",CSC1021/P02/01,Practical,CSC1021/P02/01,Programming I,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Wednesday,10:30,2 hours,"5-15, 19",CSC1021/P02/02,Practical,CSC1021/P02/02,Programming I,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Wednesday,10:30,2 hours,"5-15, 19",CSC1021/P02/03,Practical,CSC1021/P02/03,Programming I,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Speirs NA Dr & Lord P Dr
+Wednesday,09:30,1 hour,05-Sep,CSC1021/L02/01 <5-9>,Lecture,CSC1021/L02/01 <5-9>,Programming I,USB.1.006,Speirs NA Dr
+Wednesday,09:30,1 hour,Nov-15,CSC1021/L02/01 <11-15>,Lecture,CSC1021/L02/01 <11-15>,Programming I,USB.1.006,Lord P Dr
+Wednesday,09:30,1 hour,19,CSC1021/L02/01 <19>,Lecture,CSC1021/L02/01 <19>,Programming I,USB.1.006,Speirs NA Dr & Lord P Dr
+Thursday,12:30,2 hours,"5-9, 11-14, 19",CSC1024/L01/01,Lecture,CSC1024/L01/01,Computer Architecture,USB.1.006,Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Thursday,14:30,1 hour,05-Sep,CSC1024/P01/01,Practical,CSC1024/P01/01,Computer Architecture,USB.3.005 (A),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Thursday,12:30,1 hour,"22-27, 37","CSC1026/L02/01 <22-27, 37>",Lecture,"CSC1026/L02/01 <22-27, 37>",Website Design and Construction,USB.1.006,Fernstad SE Dr
+Thursday,12:30,1 hour,"28-30, 35-36","CSC1026/L02/01 <28-30, 35-36>",Lecture,"CSC1026/L02/01 <28-30, 35-36>",Website Design and Construction,USB.1.006,Warrender JD Dr
+Thursday,13:30,2 hours,"22-30, 35-37",CSC1026/P02/02,Practical,CSC1026/P02/02,Website Design and Construction,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Thursday,10:30,1 hour,"6, 8, 12, 14",CSC1023/T01/01,Practical,CSC1023/T01/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Blewitt WF Dr & Guan Y Dr
+Thursday,10:30,1 hour,25,CSC1023/T02/01,Practical,CSC1023/T02/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Guan Y Dr
+Thursday,13:30,2 hours,"22-30, 35-37",CSC1026/P02/03,Practical,CSC1026/P02/03,Website Design and Construction,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Thursday,14:30,1 hour,05-Sep,CSC1024/P01/02,Practical,CSC1024/P01/02,Computer Architecture,USB.3.015 (B),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Thursday,14:30,1 hour,05-Sep,CSC1024/P01/03,Practical,CSC1024/P01/03,Computer Architecture,USB.3.018 (C),Warrender JD Dr & Esmaeil Zadeh Soudjani S Dr
+Thursday,13:30,2 hours,"22-30, 35-37",CSC1026/P02/01,Practical,CSC1026/P02/01,Website Design and Construction,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Fernstad SE Dr
+Thursday,16:30,1 hour,"5-9, 11-15, 19",CSC1023/L02/01,Lecture,CSC1023/L02/01,The Software Engineering Professional,USB.1.006,Barnes JA Mr & Marshall LF Dr
+Thursday,16:30,1 hour,"22-30, 35-37",CSC1023/L04/01,Lecture,CSC1023/L04/01,The Software Engineering Professional,USB.1.006,Barnes JA Mr & Marshall LF Dr
+Friday,14:30,1 hour,19,CSC1025/T02/01 <19>,Tutorial,CSC1025/T02/01 <19>,,USB.3.005 (A),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Friday,14:30,1 hour,05-Oct,CSC1025/T02/01 <5-10>,Tutorial,CSC1025/T02/01 <5-10>,,USB.3.005 (A),Warrender JD Dr & Khomenko VV Dr
+Friday,14:30,1 hour,Nov-15,CSC1025/T02/01 <11-15>,Tutorial,CSC1025/T02/01 <11-15>,,USB.3.005 (A),Warrender JD Dr & Steggles LJ Dr
+Friday,14:30,1 hour,19,CSC1025/T02/02 <19>,Tutorial,CSC1025/T02/02 <19>,,USB.3.015 (B),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Friday,14:30,1 hour,05-Oct,CSC1025/T02/02 <5-10>,Tutorial,CSC1025/T02/02 <5-10>,,USB.3.015 (B),Warrender JD Dr & Khomenko VV Dr
+Friday,14:30,1 hour,Nov-15,CSC1025/T02/02 <11-15>,Tutorial,CSC1025/T02/02 <11-15>,,USB.3.015 (B),Warrender JD Dr & Steggles LJ Dr
+Friday,14:30,1 hour,19,CSC1025/T02/03 <19>,Tutorial,CSC1025/T02/03 <19>,,USB.3.018 (C),Warrender JD Dr & Steggles LJ Dr & Khomenko VV Dr
+Friday,14:30,1 hour,05-Oct,CSC1025/T02/03 <5-10>,Tutorial,CSC1025/T02/03 <5-10>,,USB.3.018 (C),Warrender JD Dr & Khomenko VV Dr
+Friday,14:30,1 hour,Nov-15,CSC1025/T02/03 <11-15>,Tutorial,CSC1025/T02/03 <11-15>,,USB.3.018 (C),Warrender JD Dr & Steggles LJ Dr
+Friday,09:30,1 hour,"22-30, 35-37",CSC1023/P04/01,Practical,CSC1023/P04/01,The Software Engineering Professional,USB.3.005 (A),Barnes JA Mr & Warrender JD Dr
+Friday,09:30,1 hour,"22-30, 35-37",CSC1023/P04/02,Practical,CSC1023/P04/02,The Software Engineering Professional,USB.3.015 (B),Barnes JA Mr & Warrender JD Dr
+Friday,09:30,1 hour,"22-30, 35-37",CSC1023/P04/03,Practical,CSC1023/P04/03,The Software Engineering Professional,USB.3.018 (C),Barnes JA Mr & Warrender JD Dr
+Friday,12:30,1 hour,"22-30, 35-37",CSC1022/L01/01,Lecture,CSC1022/L01/01,Programming II,USB.1.006,Speirs NA Dr
+Friday,13:30,2 hours,"22-30, 35-37",CSC1022/P01/01,Computing Lab,CSC1022/P01/01,Programming II,USB.3.005 (A),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Friday,10:30,1 hour,"6, 8, 12, 14",CSC1023/T01/01,Practical,CSC1023/T01/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Blewitt WF Dr & Guan Y Dr
+Friday,10:30,1 hour,25,CSC1023/T02/01,Practical,CSC1023/T02/01,The Software Engineering Professional,USB.Social Learning,Goni-Moreno A Dr & Kharrufa ANS Dr & McGough AS Dr & Dong C Dr & Morisset C Dr & Nesbitt DJ Dr & Solaiman EM Dr & Morgan G Dr & Ushaw G Dr & Fellermann HMA Dr & Bacardit J Dr & Colquhoun J Dr & Pierce KG Dr & Montague K Dr & Steggles LJ Dr & Freitas LJS Dr & Devlin M Dr & Koutny M Dr & Speirs NA Dr & Thomas NA Dr & Ezhilchelvan PD Dr & Lord P Dr & Missier P Dr & Taylor PN Dr & Zuliani P Dr & Ranjan R Professor & Fernstad SE Dr & Riddle S Dr & Bartindale TL Dr & Khomenko VV Dr & Guan Y Dr
+Friday,13:30,2 hours,"22-30, 35-37",CSC1022/P01/02,Computing Lab,CSC1022/P01/02,Programming II,USB.3.015 (B),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Friday,13:30,2 hours,"22-30, 35-37",CSC1022/P01/03,Computing Lab,CSC1022/P01/03,Programming II,USB.3.018 (C),Warrender JD Dr & Heels LE Miss & Speirs NA Dr
+Friday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P02/01,Practical,CSC1023/P02/01,The Software Engineering Professional,USB.3.005 (A),Barnes JA Mr & Warrender JD Dr
+Friday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P02/02,Practical,CSC1023/P02/02,The Software Engineering Professional,USB.3.015 (B),Barnes JA Mr & Warrender JD Dr
+Friday,09:30,1 hour,"5-9, 11-15, 19",CSC1023/P02/03,Practical,CSC1023/P02/03,The Software Engineering Professional,USB.3.018 (C),Barnes JA Mr & Warrender JD Dr
+Friday,12:30,1 hour,05-Sep,CSC1025/L02/01 <5-9>,Lecture,CSC1025/L02/01 <5-9>,Mathematics for Computer Science,USB.1.006,Khomenko VV Dr
+Friday,12:30,1 hour,Nov-15,CSC1025/L02/01 <11-15>,Lecture,CSC1025/L02/01 <11-15>,Mathematics for Computer Science,USB.1.006,Steggles LJ Dr
+Friday,11:30,1 hour,05-Sep,CSC1025/L03/01 <5-9>,Lecture,CSC1025/L03/01 <5-9>,Mathematics for Computer Science,USB.1.006,Khomenko VV Dr
+Friday,11:30,1 hour,Nov-15,CSC1025/L03/01 <11-15>,Lecture,CSC1025/L03/01 <11-15>,Mathematics for Computer Science,USB.1.006,Steggles LJ Dr
+Monday,12:30,1 hour,"23-30, 35-37",CSC2021/P02/01,Practical,CSC2021/P02/01,Software Engineering,USB.3.005 (A),Colquhoun J Dr & Yassin Kassab R Dr & Riddle S Dr
+Monday,15:30,1 hour,"5-9, 11-15, 19",CSC2022/L01/01,Lecture,CSC2022/L01/01,Software Engineering Team Project,USB.1.006,Colquhoun J Dr
+Monday,10:30,2 hours,22-28,CSC2021/L03/01 <22-28>,Lecture,CSC2021/L03/01 <22-28>,Software Engineering,USB.1.006,Riddle S Dr
+Monday,10:30,2 hours,"29-30, 35, 37","CSC2021/L03/01 <29-30, 35, 37>",Lecture,"CSC2021/L03/01 <29-30, 35, 37>",Software Engineering,USB.1.006,Colquhoun J Dr & Riddle S Dr
+Monday,12:30,1 hour,Sep-13,CSC2021/P01/02,Practical,CSC2021/P01/02,Software Engineering,USB.3.015 (B),Colquhoun J Dr & Yassin Kassab R Dr & Riddle S Dr
+Monday,12:30,1 hour,"23-30, 33-37",CSC2021/P02/02,Practical,CSC2021/P02/02,Software Engineering,USB.3.015 (B),Colquhoun J Dr & Yassin Kassab R Dr & Riddle S Dr
+Monday,12:30,1 hour,"23-30, 35-37",CSC2021/P02/03,Practical,CSC2021/P02/03,Software Engineering,USB.3.018 (C),Colquhoun J Dr & Riddle S Dr
+Monday,12:30,1 hour,Sep-13,CSC2021/P01/03,Practical,CSC2021/P01/03,Software Engineering,USB.3.018 (C),Colquhoun J Dr & Yassin Kassab R Dr & Riddle S Dr
+Monday,12:30,1 hour,Sep-13,CSC2021/P01/01,Practical,CSC2021/P01/01,Software Engineering,USB.3.005 (A),Colquhoun J Dr & Yassin Kassab R Dr & Riddle S Dr
+Monday,10:30,1 hour,19,CSC2021/L01/01 <19>,Lecture,CSC2021/L01/01 <19>,Software Engineering,USB.1.006,Colquhoun J Dr & Riddle S Dr
+Monday,10:30,1 hour,05-Sep,CSC2021/L01/01 <5-9>,Lecture,CSC2021/L01/01 <5-9>,Software Engineering,USB.1.006,Riddle S Dr
+Monday,10:30,1 hour,Nov-15,CSC2021/L01/01 <11-15>,Lecture,CSC2021/L01/01 <11-15>,Software Engineering,USB.1.006,Colquhoun J Dr
+Monday,11:30,1 hour,19,CSC2021/L02/01 <19>,Lecture,CSC2021/L02/01 <19>,Software Engineering,USB.1.006,Colquhoun J Dr & Riddle S Dr
+Monday,11:30,1 hour,05-Sep,CSC2021/L02/01 <5-9>,Lecture,CSC2021/L02/01 <5-9>,Software Engineering,USB.1.006,Riddle S Dr
+Monday,11:30,1 hour,Nov-15,CSC2021/L02/01 <11-15>,Lecture,CSC2021/L02/01 <11-15>,Software Engineering,USB.1.006,Colquhoun J Dr
+Tuesday,12:30,1 hour,"5-9, 11-15, 19",CSC2022/P01/01,Practical,CSC2022/P01/01,Software Engineering Team Project,USB.3.004 Group Study D,Colquhoun J Dr & Yassin Kassab R Dr
+Tuesday,12:30,1 hour,"22-30, 35-37",CSC2024/P01/03,Practical,CSC2024/P01/03,Database Technology,USB.3.018 (C),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Tuesday,12:30,1 hour,"22-30, 35-37",CSC2024/P01/01,Practical,CSC2024/P01/01,Database Technology,USB.3.005 (A),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Tuesday,10:30,2 hours,"27-30, 35-37","CSC2024_CSC2513/L01/01 <27-30, 35-37>",Lecture,"CSC2024_CSC2513/L01/01 <27-30, 35-37>",,USB.1.006,Missier P Dr
+Tuesday,10:30,2 hours,22-26,CSC2024_CSC2513/L01/01 <22-26>,Lecture,CSC2024_CSC2513/L01/01 <22-26>,,USB.1.006,Colquhoun J Dr
+Tuesday,14:30,2 hours,"5-9, 11-15, 19",CSC2022/P01b/01,Practical,CSC2022/P01b/01,Software Engineering Team Project,USB.3.004 Group Study D,Colquhoun J Dr & Yassin Kassab R Dr
+Tuesday,13:30,1 hour,10,CSC2023/L02/01 <10>,Lecture,CSC2023/L02/01 <10>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Tuesday,14:30,3 hours,"22-30, 35-37",CSC2022/P04/01,Practical,CSC2022/P04/01,Software Engineering Team Project,USB.3.004 Group Study D,Colquhoun J Dr & Yassin Kassab R Dr
+Tuesday,12:30,1 hour,"22-30, 35-37",CSC2024/P01/02,Practical,CSC2024/P01/02,Database Technology,USB.3.015 (B),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Tuesday,16:30,1 hour,Nov-15,CSC2023/L05/01 <11-15>,Lecture,CSC2023/L05/01 <11-15>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Tuesday,16:30,1 hour,05-Sep,CSC2023/L05/01 <5-9>,Lecture,CSC2023/L05/01 <5-9>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Tuesday,16:30,1 hour,10,CSC2023/L05/01 <10>,Lecture,CSC2023/L05/01 <10>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Tuesday,10:30,1 hour,"11-15, 19","CSC2023/L01/01 <11-15, 19>",Lecture,"CSC2023/L01/01 <11-15, 19>",Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Tuesday,10:30,1 hour,05-Sep,CSC2023/L01/01 <5-9>,Lecture,CSC2023/L01/01 <5-9>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Tuesday,13:30,1 hour,"11-15, 19","CSC2023/L02/01 <11-15, 19>",Lecture,"CSC2023/L02/01 <11-15, 19>",Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Tuesday,13:30,1 hour,05-Sep,CSC2023/L02/01 <5-9>,Lecture,CSC2023/L02/01 <5-9>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Wednesday,12:30,1 hour,"22-30, 35-37",CSC2026/P01/02,Practical,CSC2026/P01/02,Computer Networks,USB.3.015 (B),Colquhoun J Dr & Yassin Kassab R Dr
+Wednesday,12:30,1 hour,"5-15, 19",CSC2025/P01/01,Practical,CSC2025/P01/01,Operating Systems,USB.3.005 (A),Colquhoun J Dr & Cook NO Dr & Yassin Kassab R Dr
+Wednesday,10:30,1 hour,"5-9, 11-15, 19",CSC2025/L01/01,Lecture,CSC2025/L01/01,Operating Systems,USB.1.006,Cook NO Dr
+Wednesday,11:30,1 hour,"5-9, 11-15, 19",CSC2025/L02/01,Lecture,CSC2025/L02/01,Operating Systems,USB.1.006,Cook NO Dr
+Wednesday,12:30,1 hour,"22-30, 35-37",CSC2026/P01/03,Practical,CSC2026/P01/03,Computer Networks,USB.3.018 (C),Colquhoun J Dr & Yassin Kassab R Dr
+Wednesday,10:30,2 hours,"22-30, 35-37",CSC2026/L01/01,Lecture,CSC2026/L01/01,Computer Networks,USB.1.006,Yassin Kassab R Dr
+Wednesday,12:30,1 hour,"22-30, 35-37",CSC2026/P01/01,Practical,CSC2026/P01/01,Computer Networks,USB.3.005 (A),Colquhoun J Dr & Yassin Kassab R Dr
+Wednesday,12:30,1 hour,"5-15, 19",CSC2025/P01/03,Practical,CSC2025/P01/03,Operating Systems,USB.3.018 (C),Colquhoun J Dr & Cook NO Dr & Yassin Kassab R Dr
+Thursday,15:30,2 hours,"5-9, 11-15, 19",CSC2022/P03/01,Practical,CSC2022/P03/01,Software Engineering Team Project,USB.2.004 Group Study A & USB.2.005 Group Study B & USB.2.006 Group Study C & USB.2.017 Group Study I & USB.3.004 Group Study D & USB.3.007 Group Study E & USB.3.008 Group Study F & USB.4.004 Group Study G & USB.4.026 Group Study H,Colquhoun J Dr & Yassin Kassab R Dr
+Thursday,12:30,1 hour,"22-30, 35-37",CSC2024/P02/03,Practical,CSC2024/P02/03,Database Technology,USB.3.018 (C),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Thursday,10:30,2 hours,"28-30, 35-37","CSC2024_CSC2513/L03/01 <28-30, 35-37>",Lecture,"CSC2024_CSC2513/L03/01 <28-30, 35-37>",,USB.1.006,Missier P Dr
+Thursday,10:30,2 hours,22-26,CSC2024_CSC2513/L03/01 <22-26>,Lecture,CSC2024_CSC2513/L03/01 <22-26>,,USB.1.006,Colquhoun J Dr
+Thursday,10:30,1 hour,"5-9, 11-15, 19",CSC2025/L03/01,Lecture,CSC2025/L03/01,Operating Systems,USB.1.006,Cook NO Dr
+Thursday,11:30,1 hour,"5-9, 11-15, 19",CSC2025/L04/01,Lecture,CSC2025/L04/01,Operating Systems,USB.1.006,Cook NO Dr
+Thursday,13:30,1 hour,10,CSC2023/L04/01 <10>,Lecture,CSC2023/L04/01 <10>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Thursday,12:30,1 hour,"22-30, 35-37",CSC2024/P02/01,Practical,CSC2024/P02/01,Database Technology,USB.3.005 (A),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Thursday,12:30,1 hour,"22-30, 35-37",CSC2024/P02/02,Practical,CSC2024/P02/02,Database Technology,USB.3.015 (B),Colquhoun J Dr & Missier P Dr & Yassin Kassab R Dr
+Thursday,14:30,1 hour,"5-9, 11-15, 19",CSC2022/P02/01,Practical,CSC2022/P02/01,Software Engineering Team Project,USB.2.004 Group Study A & USB.2.005 Group Study B & USB.2.006 Group Study C & USB.2.017 Group Study I & USB.3.004 Group Study D & USB.3.007 Group Study E & USB.3.008 Group Study F & USB.4.004 Group Study G & USB.4.026 Group Study H,Colquhoun J Dr & Yassin Kassab R Dr
+Thursday,14:30,3 hours,"22-30, 35-37",CSC2022/P05/01,Practical,CSC2022/P05/01,Software Engineering Team Project,USB.2.004 Group Study A & USB.2.005 Group Study B & USB.2.006 Group Study C & USB.2.017 Group Study I & USB.3.004 Group Study D & USB.3.007 Group Study E & USB.3.008 Group Study F & USB.4.004 Group Study G & USB.4.026 Group Study H,Colquhoun J Dr & Yassin Kassab R Dr
+Thursday,12:30,1 hour,May-15,CSC2025/P02/01,Practical,CSC2025/P02/01,Operating Systems,USB.3.005 (A),Colquhoun J Dr & Cook NO Dr & Yassin Kassab R Dr
+Thursday,12:30,1 hour,"5-15, 19",CSC2025/P02/02,Practical,CSC2025/P02/02,Operating Systems,USB.3.015 (B),Colquhoun J Dr & Cook NO Dr & Yassin Kassab R Dr
+Thursday,12:30,1 hour,"5-15, 19",CSC2025/P02/03,Practical,CSC2025/P02/03,Operating Systems,USB.3.018 (C),Colquhoun J Dr & Cook NO Dr & Yassin Kassab R Dr
+Friday,12:30,1 hour,"22-30, 35-37",CSC2026/P02/01,Practical,CSC2026/P02/01,Computer Networks,USB.3.005 (A),Colquhoun J Dr & Yassin Kassab R Dr
+Friday,12:30,1 hour,"22-30, 35-37",CSC2026/P02/02,Practical,CSC2026/P02/02,Computer Networks,USB.3.015 (B),Colquhoun J Dr & Yassin Kassab R Dr
+Friday,12:30,1 hour,"22-30, 35-37",CSC2026/P02/03,Practical,CSC2026/P02/03,Computer Networks,USB.3.018 (C),Colquhoun J Dr & Yassin Kassab R Dr
+Friday,10:30,2 hours,"22-26, 28-30, 35-37",CSC2026/L02/01,Lecture,CSC2026/L02/01,Computer Networks,USB.1.006,Yassin Kassab R Dr
+Friday,10:30,1 hour,05-Sep,CSC2023/L03/01 <5-9>,Lecture,CSC2023/L03/01 <5-9>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Friday,14:30,1 hour,Nov-15,CSC2023/L06/01 <11-15>,Lecture,CSC2023/L06/01 <11-15>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Friday,14:30,1 hour,05-Sep,CSC2023/L06/01 <5-9>,Lecture,CSC2023/L06/01 <5-9>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Friday,15:30,1 hour,"5-9, 11-15, 19",CSC2022/L02/01,Lecture,CSC2022/L02/01,Software Engineering Team Project,USB.1.006,Colquhoun J Dr
+Friday,10:30,1 hour,Nov-15,CSC2023/L03/01 <11-15>,Lecture,CSC2023/L03/01 <11-15>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Friday,13:30,1 hour,Nov-15,CSC2023/L04/01 <11-15>,Lecture,CSC2023/L04/01 <11-15>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor
+Friday,13:30,1 hour,05-Aug,CSC2023/L04/01 <5-8>,Lecture,CSC2023/L04/01 <5-8>,Algorithm Design and Analysis,USB.1.006,van Moorsel APA Professor & Steggles LJ Dr
+Monday,11:30,1 hour,"22-30, 35, 37",CSC3322/P01/01,Practical,CSC3322/P01/01,Real-Time and Cyber-Physical Systems,USB.3.005 (A),Pierce KG Dr
+Monday,09:30,1 hour,"5-9, 11-15, 19",CSC3423/L01/01,Lecture,CSC3423/L01/01,Biologically-inspired Computing,USB.4.005 SR,Bacardit J Dr
+Monday,10:30,1 hour,"5-9, 11-15, 19",CSC3423/L02/01,Lecture,CSC3423/L02/01,Biologically-inspired Computing,USB.4.005 SR,Bacardit J Dr
+Monday,11:30,1 hour,"5-15, 19",CSC3423/P01/01,Practical,CSC3423/P01/01,Biologically-inspired Computing,USB.3.015 (B),Bacardit J Dr
+Monday,13:30,2 hours,"22-30, 35, 37",CSC3424/L01/01,Lecture,CSC3424/L01/01,Bio-algorithms,USB.4.005 SR,Bacardit J Dr & Krasnogor N Professor
+Monday,15:30,1 hour,"22-30, 35, 37",CSC3424/P01/01,Practical,CSC3424/P01/01,Bio-algorithms,USB.3.005 (A),Bacardit J Dr & Krasnogor N Professor
+Monday,15:30,2 hours,"5-9, 11-15, 19",CSC3323/P01/01,Practical,CSC3323/P01/01,Software Verification Technologies,USB.3.018 (C),Freitas LJS Dr
+Monday,15:30,2 hours,"5-15, 19",CSC3723/P01/01,Practical,CSC3723/P01/01,Ubiquitous Computing,USB.3.005 (A),Montague K Dr
+Monday,13:30,2 hours,"5-15, 19",CSC3723/S01/01,Seminar,CSC3723/S01/01,Ubiquitous Computing,USB.4.005 SR,Montague K Dr
+Monday,13:30,1 hour,"8-9, 11-15, 19","CSC3323/L01/01 <8-9, 11-15, 19>",Lecture,"CSC3323/L01/01 <8-9, 11-15, 19>",Software Verification Technologies,USB.1.006,Freitas LJS Dr
+Monday,13:30,1 hour,05-Jul,CSC3323/L01/01 <5-7>,Lecture,CSC3323/L01/01 <5-7>,Software Verification Technologies,USB.1.006,Freitas LJS Dr
+Monday,14:30,1 hour,05-Jun,CSC3323/L02/01 <5-6>,Lecture,CSC3323/L02/01 <5-6>,Software Verification Technologies,USB.1.006,Freitas LJS Dr
+Monday,14:30,1 hour,"7-9, 11-15, 19","CSC3323/L02/01 <7-9, 11-15, 19>",Lecture,"CSC3323/L02/01 <7-9, 11-15, 19>",Software Verification Technologies,USB.1.006,Freitas LJS Dr
+Monday,09:30,2 hours,"22-30, 35, 37","CSC3322/L01/01 <22-30, 35, 37>",Lecture,"CSC3322/L01/01 <22-30, 35, 37>",Real-Time and Cyber-Physical Systems,USB.4.005 SR,Pierce KG Dr
+Tuesday,16:30,1 hour,25-26,CSC3095/L02/01,Lecture,CSC3095/L02/01,Project and Dissertation in Computing Science,USB.1.006,Marshall LF Dr & Devlin M Dr
+Tuesday,13:30,2 hours,"22-30, 35-37",CSC3124/L01/01,Lecture,CSC3124/L01/01,System and Network Security,USB.1.006,Morisset C Dr
+Tuesday,15:30,1 hour,"22-30, 35-37",CSC3124/P01/01,Practical,CSC3124/P01/01,System and Network Security,USB.3.015 (B),Morisset C Dr
+Tuesday,10:30,1 hour,"5-15, 19",CSC3223/P01/01,Practical,CSC3223/P01/01,Graphics for Games,USB.3.005 (A) & USB.3.018 (C),Ushaw G Dr
+Tuesday,09:30,1 hour,"14-15, 19","CSC3223/L01/01 <14-15, 19>",Lecture,"CSC3223/L01/01 <14-15, 19>",Graphics for Games,USB.1.006,Ushaw G Dr
+Tuesday,09:30,1 hour,"6-9, 11-13","CSC3223/L01/01 <6-9, 11-13>",Lecture,"CSC3223/L01/01 <6-9, 11-13>",Graphics for Games,USB.1.006,Ushaw G Dr
+Tuesday,09:30,1 hour,5,CSC3223/L01/01 <5>,Lecture,CSC3223/L01/01 <5>,Graphics for Games,USB.1.006,Ushaw G Dr
+Tuesday,11:30,1 hour,"5-15, 19",CSC3223/P02/01,Practical,CSC3223/P02/01,Graphics for Games,USB.3.005 (A) & USB.3.018 (C),Ushaw G Dr
+Tuesday,14:30,1 hour,7,CSC3621/L01/01 <7>,Lecture,CSC3621/L01/01 <7>,Cryptography,USB.1.006,Dong C Dr
+Tuesday,15:30,1 hour,7,CSC3621/L02/01 <7>,Lecture,CSC3621/L02/01 <7>,Cryptography,USB.1.006,Dong C Dr
+Tuesday,14:30,1 hour,"6, 8-9","CSC3621/L01/01 <6, 8-9>",Lecture,"CSC3621/L01/01 <6, 8-9>",Cryptography,USB.1.006,Dong C Dr
+Tuesday,14:30,1 hour,"5, 11-15, 19","CSC3621/L01/01 <5, 11-15, 19>",Lecture,"CSC3621/L01/01 <5, 11-15, 19>",Cryptography,USB.1.006,Dong C Dr
+Tuesday,15:30,1 hour,"6, 8-9","CSC3621/L02/01 <6, 8-9>",Lecture,"CSC3621/L02/01 <6, 8-9>",Cryptography,USB.1.006,Dong C Dr
+Tuesday,15:30,1 hour,"5, 11-15, 19","CSC3621/L02/01 <5, 11-15, 19>",Lecture,"CSC3621/L02/01 <5, 11-15, 19>",Cryptography,USB.1.006,Dong C Dr
+Tuesday,16:30,1 hour,06-Sep,CSC3621/P01/01 <6-9>,Practical,CSC3621/P01/01 <6-9>,Cryptography,USB.3.015 (B),Dong C Dr
+Tuesday,16:30,1 hour,"5, 11-15, 19","CSC3621/P01/01 <5, 11-15, 19>",Practical,"CSC3621/P01/01 <5, 11-15, 19>",Cryptography,USB.3.015 (B),Dong C Dr
+Tuesday,09:30,2 hours,36,CSC3322/L01/01 <36>,Lecture,CSC3322/L01/01 <36>,Real-Time and Cyber-Physical Systems,USB.2.022 SR,Pierce KG Dr
+Wednesday,12:30,1 hour,"5-9, 11-12",CSC3095/L01/01,Lecture,CSC3095/L01/01,Project and Dissertation in Computing Science,USB.1.006,Marshall LF Dr & Devlin M Dr
+Wednesday,10:30,3 hours,"28-30, 35-37","CSC3622/L01/01 <28-30, 35-37>",Lecture,"CSC3622/L01/01 <28-30, 35-37>",Reliability and Fault Tolerance,USB.4.005 SR,Romanovsky A Professor
+Wednesday,10:30,3 hours,22,CSC3622/L01/01 <22>,Lecture,CSC3622/L01/01 <22>,Reliability and Fault Tolerance,USB.4.005 SR,Romanovsky A Professor & Anderson T Professor
+Wednesday,10:30,3 hours,23-27,CSC3622/L01/01 <23-27>,Lecture,CSC3622/L01/01 <23-27>,Reliability and Fault Tolerance,USB.4.005 SR,Anderson T Professor
+Wednesday,10:30,5.5 hours,36,CSC3095/P02/01,Practical,CSC3095/P02/01,Project and Dissertation in Computing Science,USB.G.003,Marshall LF Dr & Devlin M Dr
+Wednesday,14:30,3 hours,37,CSC3224/P01/01,Practical,CSC3224/P01/01,Computer Games Development,USB.3.015 (B),Davison RG Dr
+Wednesday,09:30,1 hour,"5-9, 11-14, 19",CSC3121/L01/01,Lecture,CSC3121/L01/01,Distributed Systems,USB.4.005 SR,Ezhilchelvan PD Dr
+Wednesday,10:30,1 hour,"5-9, 11-14, 19",CSC3121/L02/01,Lecture,CSC3121/L02/01,Distributed Systems,USB.4.005 SR,Ezhilchelvan PD Dr
+Wednesday,11:30,1 hour,"5-9, 11-14, 19","CSC3121/L03/01 <5-9, 11-14, 19>",Lecture,"CSC3121/L03/01 <5-9, 11-14, 19>",Distributed Systems,USB.4.005 SR,Ezhilchelvan PD Dr
+Wednesday,11:00,1.5 hours,15,CSC3121/L03/01 <15>,Lecture,CSC3121/L03/01 <15>,Distributed Systems,USB.4.005 SR,Ezhilchelvan PD Dr
+Thursday,09:30,1 hour,"5-9, 11-15, 19",CSC3324/L01/01,Lecture,CSC3324/L01/01,Understanding Concurrency,USB.4.005 SR,Khomenko VV Dr
+Thursday,10:30,1 hour,"5-9, 11-15, 19",CSC3324/L02/01,Lecture,CSC3324/L02/01,Understanding Concurrency,USB.4.005 SR,Khomenko VV Dr
+Thursday,11:30,1 hour,"5-15, 19",CSC3324/P01/01,Practical,CSC3324/P01/01,Understanding Concurrency,USB.3.005 (A),Khomenko VV Dr
+Thursday,09:30,1 hour,"22-30, 35-37",CSC3224/L01/01,Lecture,CSC3224/L01/01,Computer Games Development,USB.1.006,Davison RG Dr
+Thursday,10:30,2 hours,"22-30, 35-36",CSC3224/P01/01,Practical,CSC3224/P01/01,Computer Games Development,USB.3.005 (A),Davison RG Dr
+Thursday,13:30,3 hours,"22-30, 35-37",CSC3122/L01/01,Lecture,CSC3122/L01/01,Mobile Computer Systems Development,USB.1.006,Marshall LF Dr
+Thursday,09:30,1 hour,"5-9, 11-15, 19",CSC3721/L01/01,Lecture,CSC3721/L01/01,Introduction to Human-Computer Interaction,USB.1.006,Kharrufa ANS Dr
+Thursday,10:30,1 hour,"5-9, 11-15, 19",CSC3721/P01/01,Practical,CSC3721/P01/01,Introduction to Human-Computer Interaction,USB.3.015 (B),Kharrufa ANS Dr
+Thursday,14:30,1 hour,"5-9, 11-15, 19",CSC3123/L01/01,Lecture,CSC3123/L01/01,Internet Technology,USB.1.006,Marshall LF Dr
+Thursday,15:30,1 hour,"5-9, 11-15, 19",CSC3123/L02/01,Lecture,CSC3123/L02/01,Internet Technology,USB.1.006,Marshall LF Dr
+Thursday,16:30,1 hour,"5-9, 11-15, 19",CSC3123/P01/01,Practical,CSC3123/P01/01,Internet Technology,USB.3.005 (A) & USB.3.018 (C),Marshall LF Dr
+Thursday,11:30,1 hour,"5-9, 11-15, 19",CSC3721/P01/02,Practical,CSC3721/P01/02,Introduction to Human-Computer Interaction,USB.3.015 (B),Kharrufa ANS Dr
+Friday,09:30,1 hour,"5-9, 11-15, 19",CSC3221/L01/01,Lecture,CSC3221/L01/01,Programming for Games,USB.1.006,Speirs NA Dr
+Friday,10:30,1 hour,"5-15, 19",CSC3221/P01/01,Practical,CSC3221/P01/01,Programming for Games,USB.3.015 (B),Speirs NA Dr
+Friday,11:30,1 hour,"5-15, 19",CSC3221/P02/01,Practical,CSC3221/P02/01,Programming for Games,USB.3.015 (B),Speirs NA Dr
+Friday,09:30,1 hour,"22-30, 35-37",CSC3222/L01/01,Lecture,CSC3222/L01/01,Gaming Simulations,USB.1.006,Davison RG Dr
+Friday,10:30,1 hour,"22-30, 35-37",CSC3222/P01/01,Practical,CSC3222/P01/01,Gaming Simulations,USB.3.005 (A),Davison RG Dr
+Friday,11:30,1 hour,"22-30, 35-37",CSC3222/P02/01,Practical,CSC3222/P02/01,Gaming Simulations,USB.3.005 (A),Davison RG Dr
+Friday,13:30,2 hours,"5-8, 10-15, 19",CSC3422/L01/01,Lecture,CSC3422/L01/01,Website Construction and Management,USB.4.005 SR,Heels LE Miss
+Friday,15:30,1 hour,"5-15, 19",CSC3422/P01/01,Practical,CSC3422/P01/01,Website Construction and Management (Server-side),USB.3.015 (B),Heels LE Miss
+Friday,16:30,1 hour,"5-15, 19",CSC3422/P01/02,Practical,CSC3422/P01/02,Website Construction and Management (Server-side),USB.3.015 (B),Heels LE Miss
+Friday,13:30,3 hours,"22-26, 28-30, 35-37","CSC3321/L01/01 <22-26, 28-30, 35-37>",Lecture,"CSC3321/L01/01 <22-26, 28-30, 35-37>",Understanding Programming Languages,USB.2.022 SR,Freitas LJS Dr
+Friday,13:30,3 hours,27,CSC3321/L01/01 <27>,Lecture,CSC3321/L01/01 <27>,Understanding Programming Languages,USB.1.006,Freitas LJS Dr
+Friday,15:30,2 hours,"22-25, 27-29, 35-37","CSC3722/P01/01 <22-25, 27-29, 35-37>",Practical,"CSC3722/P01/01 <22-25, 27-29, 35-37>",Advanced Interaction Design,USB.3.005 (A),Kharrufa ANS Dr
+Friday,15:30,2 hours,30,CSC3722/P01/01 <30>,Practical,CSC3722/P01/01 <30>,Advanced Interaction Design,USB.4.005 SR,Kharrufa ANS Dr
+Friday,13:30,2 hours,"22-25, 27-29, 35-37","CSC3722/L01/01 <22-25, 27-29, 35-37>",Lecture,"CSC3722/L01/01 <22-25, 27-29, 35-37>",Advanced Interaction Design,USB.4.005 SR,Kharrufa ANS Dr
+Friday,13:30,2 hours,30,CSC3722/L01/01 <30>,Lecture,CSC3722/L01/01 <30>,Advanced Interaction Design,,Kharrufa ANS Dr
+,0,,,,,,,,

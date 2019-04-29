@@ -1,0 +1,18 @@
+[
+	{
+		"Day": "Monday",
+		"Start Time": "12:30",
+		"Duration": "1 hour",
+		"Week": 20,
+		"Date": "Not yet set",
+		"Stage": 1
+	},
+	{
+		"Day": "Monday",
+		"Start Time": "12:30",
+		"Duration": "1 hour",
+		"Week": 21,
+		"Date": "Not yet set",
+		"Stage": 1
+	}
+]

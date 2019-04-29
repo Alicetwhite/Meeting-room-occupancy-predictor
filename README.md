@@ -16,9 +16,9 @@ The decision tree model correctly identified unoccupied rooms 99% of the time an
 
 These results are highlighted in the comparison between the ground truth occupancy and what the decision tree predicts the occupancy to be.
 
-Ground truth: https://github.com/Alicetwhite/Meeting-room-occupancy-predictor/blob/master/Write_up/Actual-6hours.png
+Ground truth: ![alt text](https://github.com/Alicetwhite/Meeting-room-occupancy-predictor/blob/master/Write_up/Actual-6hours.png)
 
-Predicted occupancy: https://github.com/Alicetwhite/Meeting-room-occupancy-predictor/blob/master/Write_up/dt.png
+Predicted occupancy: ![alt text](https://github.com/Alicetwhite/Meeting-room-occupancy-predictor/blob/master/Write_up/dt.png)
 
 ## References
 
